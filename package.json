@@ -1,0 +1,12 @@
+{
+  "name": "lintdown",
+  "version": "0.0.1",
+  "description": "A Linter for Markdown and Frontmatter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/mansona/lintdown",
+  "author": "Chris Manson <chris@manson.ie>",
+  "license": "ISC"
+}
